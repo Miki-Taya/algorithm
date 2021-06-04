@@ -25,5 +25,9 @@ int main(){
 }
 ///comment
 ///mk_comment
+<<<<<<< HEAD
 ///doing branch in.
 ///doing 2
+=======
+///mkmk_comment
+>>>>>>> origin/master
